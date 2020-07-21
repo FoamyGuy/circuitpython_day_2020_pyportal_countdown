@@ -1,3 +1,5 @@
+![PyPortal Countdown Photo](photo.png)
+
 ### PyPortal Countdown to Circuit Python Day 2020
 This countdown is based on the wonderful guide by John Park: https://learn.adafruit.com/pyportal-event-countdown-clock
 
