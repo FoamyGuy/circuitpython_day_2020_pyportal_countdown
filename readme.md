@@ -1,5 +1,5 @@
 ### PyPortal Countdown to Circuit Python Day 2020
-This countdown is based on the wonderful guide by John Park: https://learn.adafruit.com/pyportal-event-countdown-clock/pyportal-circuitpython-setup
+This countdown is based on the wonderful guide by John Park: https://learn.adafruit.com/pyportal-event-countdown-clock
 
 ### To use this countdown:
 * Backup the existing `code.py` file on your PyPortal device
